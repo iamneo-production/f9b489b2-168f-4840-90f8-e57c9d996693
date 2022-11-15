@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#**************** IMPORT PACKAGES ********************
+
 from flask import Flask, render_template, request, flash, redirect, url_for
 from alpha_vantage.timeseries import TimeSeries
 import pandas as pd
