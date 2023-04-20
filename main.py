@@ -23,7 +23,7 @@ import re
 from sklearn.linear_model import LinearRegression
 from textblob import TextBlob
 import constants as ct
-from Tweet import Tweet
+
 import nltk
 nltk.download('punkt')
 
